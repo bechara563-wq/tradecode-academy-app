@@ -1,0 +1,6 @@
+{
+  "name": "TradeCode Academy",
+  "description": "منصة احترافية متكاملة لتعليم التداول والبرمجة مع بيانات الأسواق الحقيقية والأخبار ولوحة إدارة متقدمة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
